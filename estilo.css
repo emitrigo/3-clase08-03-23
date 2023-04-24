@@ -1,0 +1,55 @@
+
+
+/*
+Porque no me toma el css de la pág. 1 en la pág 2?
+Quise poner un class en Pág 2 y tampoco me lo toma en css, como debo hacer?
+*/
+
+h1{
+    text-align: center;
+}
+h2, em{
+    color: crimson;
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+img{
+    width: 500px;
+    margin-left: 700px;
+    text-align: center;
+}
+
+/*:hover{
+    text-decoration: none;
+    border: 3px solid blanchedalmond;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}*/
+
+a{
+    text-decoration: none;
+    border: 3px solid blanchedalmond;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+    background-color: white;
+
+}
+
+
+
+
+
+
